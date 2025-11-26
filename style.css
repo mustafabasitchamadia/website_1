@@ -714,7 +714,7 @@ margin-top: 11px;
 
 .navbar{
     /* border: solid; */
-    width: 350px;
+    width: 360px;
 
 }
 
@@ -724,14 +724,145 @@ margin-top: 11px;
 }
 
 .herodiv{
-    width: 350px;
+    width: 360px;
 }
 .divinsidehero{
-     margin-left: 80px;
-     width: 200px;
-     margin-top: 90px;
+     margin-left: 50px;
+     width: 230px;
+     margin-top: 40px;
+     height: 350px;
 
 }
+
+
+
+.nextherodiv{
+    width: 330px;
+    margin-left: 30px;
+    height: 1200px;
+}
+
+.nextherodiv4{
+    margin-top: 30px;
+    margin-left: 2px;
+}
+ .nextherodiv5{
+  margin-top: 30px;
+    margin-left: 2px;
+
+ }
+
+
+ .heroseconddiv{
+      margin-left: 0px;
+      width: 360px;
+      margin-top: 50px;
+      /* border: solid; */
+      height: 2800px;
+
+ }
+
+ .seconddivimg1{
+display: none;
+    
+ }
+ .childdivp4{
+    display: none;
+ }
+
+.seconddiv2{
+  /* border: solid; */
+  display: flex;
+  flex-direction: column;
+  width: 240px;
+  height: 1300px;
+  margin-left: 60px;
+
+}
+
+.seconddiv22{
+    /* border: solid; */
+     display: flex;
+  flex-direction: column;
+  width: 240px;
+  height: 1300px;
+   margin-left: 60px;
+}
+
+.button2{
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.nextherodiv8{
+    width: 360px;
+    height: 830px;
+}
+.imagecorser{
+    margin-top: 390px;
+    margin-left: -320px;
+    /* border: solid; */
+}
+.divv1{
+    display: none;
+}
+.divv2{
+    display: none;
+}
+.divv3circle{
+    display: none;
+}
+.nextherodivchild{
+    /* border: solid; */
+    margin-left: 17px;
+}
+.secondlastdiv1{
+    width: 360px;
+    /* border: solid; */
+    height: 1400px;
+}
+.secondlastdiv3{
+    width: 247px;
+}
+ .secondlast1image3{
+     width: 247px;
+ }
+.secondlastdiv4{
+    width: 157px;
+}
+.secondlast1image4{
+     width: 157px;
+}
+
+.secondlastdiv5{
+    margin-top: 80px;
+    margin-left: 20px;
+}
+.secondlastdiv6{
+       margin-top: 20px;
+    margin-left: 0px;
+    width: 180px;
+    /* border: solid; */
+}
+.secondlast1image6{
+    width: 180px;
+}
+.secondlastdiv9{
+      margin-top: -360px;
+    margin-left: 190px;
+}
+.secondlastdiv7{
+    margin-top: 20px;
+    margin-left: 0px;
+}
+.secondlastdiv8{
+    margin-top: 20px;
+    margin-left: 0px;
+ 
+}
+
+
 
 }
 
