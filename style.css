@@ -702,6 +702,40 @@ margin-top: 11px;
 
 
 
+@media only screen and (max-width:600px ) {
+        .navbardiv1{
+        display: none;
+
+    }
+
+
+
+}
+
+.navbar{
+    /* border: solid; */
+    width: 600px;
+
+}
+
+
+.iiii{
+    display: none !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
