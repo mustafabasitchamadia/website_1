@@ -710,7 +710,7 @@ margin-top: 11px;
 
 
 
-}
+
 
 .navbar{
     /* border: solid; */
@@ -721,6 +721,18 @@ margin-top: 11px;
 
 .iiii{
     display: none !important;
+}
+
+.herodiv{
+    width: 600px;
+}
+.divinsidehero{
+     margin-left: 80px;
+     width: 400px;
+     margin-top: 90px;
+
+}
+
 }
 
 
